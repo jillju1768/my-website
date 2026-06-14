@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+
+# Private raw sources are kept locally only.
+knowledge/raw/
+*.pdf
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
